@@ -1,0 +1,44 @@
+.K {
+    padding-left: 650px;
+}
+
+form {
+    margin-left: 600px;
+    display: inline-block;
+    background-color: green;
+
+}
+
+body {
+    background-image: url(Images/download\ \(13\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.N {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.M img {
+    height: 200px;
+    width: 280px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 25px;
+
+}
+
+.M {
+    border: 1px solid black;
+    height: 400px;
+    width: 300px;
+    background-color: blueviolet;
+    border-radius: 25px;
+    box-shadow: 20px 20px 20px 20px black;
+}
+
+.N :hover {
+    background-color: chartreuse;
+}
